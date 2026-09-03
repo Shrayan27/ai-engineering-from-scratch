@@ -3,3 +3,6 @@
 *.pth
 *.safetensors
 .env
+.venv/
+.ipynb_checkpoints/
+*.egg-info/
