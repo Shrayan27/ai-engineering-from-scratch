@@ -1,0 +1,4 @@
+2026-09-05 06:59:03,000 [INFO] Starting training
+2026-09-05 06:59:03,000 [INFO] Learning rate: 0.001
+2026-09-05 06:59:03,000 [WARNING] Loss spike detected
+2026-09-05 06:59:03,000 [ERROR] Example error message
